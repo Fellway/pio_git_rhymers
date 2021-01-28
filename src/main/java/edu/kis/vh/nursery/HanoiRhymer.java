@@ -1,7 +1,7 @@
 package edu.kis.vh.nursery;
 
 //alt + ← oraz alt + → pozwala na przełączanie się pomiędzy otwartymi oknami w Intellij
-public class HanoiRhymer extends defaultCountingOutRhymer {
+public class HanoiRhymer extends DefaultCountingOutRhymer {
 
     private int totalRejected = 0;
 
